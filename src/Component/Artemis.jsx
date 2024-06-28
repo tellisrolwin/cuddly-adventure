@@ -6,7 +6,7 @@ export default function Artemis() {
     <div>
       <style jsx>{`
         .mainDiv {
-          background-color: #231338;
+          background-color: #231337;
           width: 100%;
           height: 400px;
           border-radius: 25px;
